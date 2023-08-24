@@ -1,4 +1,4 @@
-{ [
+ [
     {
       "id": 1,
       "name": "Classic Burger",
@@ -91,5 +91,3 @@
       "image": "/images/burgers/burger-1.png"
     }
 ]
-
-}
