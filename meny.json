@@ -91,64 +91,6 @@
       "description": "A juicy beef patty topped with lettuce, tomato, onion, and pickles, served on a sesame seed bun.",
       "image": "/images/burgers/burger-1.png"
     }
-  ],
-  "addition": [
-    {
-      "fries": [
-        {
-          "id": 1,
-          "name": "French Fries",
-          "price": 20,
-          "image": "/images/fries/fries-1.png"
-        },
-        {
-          "id": 2,
-          "name": "Sweet Fries",
-          "price": 20,
-          "image": "/images/fries/fries-2.png"
-        },
-        {
-          "id": 3,
-          "name": "Widge Fries",
-          "price": 20,
-          "image": "/images/fries/fries-3.jpg"
-        },
-        {
-          "id": 4,
-          "name": "Cheesse Fries",
-          "price": 20,
-          "image": "/images/fries/fries-4.jpg"
-        }
-      ],
-      "drinks": [
-        {
-          "id": 1,
-          "name": "Cola",
-          "price": 20,
-          "image": "/images/drinks/cola.jpg"
-        },
-        {
-          "id": 2,
-          "name": "Sprite",
-          "price": 20,
-          "image": "/images/drinks/sprite.jpg"
-        },
-        {
-          "id": 4,
-          "name": "Early Bird Soda",
-          "price": 20,
-          "image": "/images/drinks/soda-2.png"
-        },
-        {
-          "id": 5,
-          "name": "Milkshake",
-          "price": 20,
-          "image": "/images/drinks/milkshake-1.png"
-        }
-      ]
-    }
-  ],
-  "orders": [
-
+  ]
   ]
 }
